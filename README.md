@@ -5,5 +5,5 @@ This programme helps calculate reading progress for books without correct page n
 Even if your e-reader only has a percentage display, it can be used to calculate the approximate 
 page of the printed book.
 
-![2023-02-23 08_54_41-ReadCalc v 0 0 2](https://user-images.githubusercontent.com/30653982/220850202-b0580482-00f8-49ca-a859-9f13ffb87905.jpg)
-![2023-02-23 08_56_18-ReadCalc v 0 0 2](https://user-images.githubusercontent.com/30653982/220850370-81929cf3-2d2f-4ef4-bbce-8c1b0cd2d54d.jpg)
+![2023-02-24 11_13_58-ReadCalc v 0 0 3](https://user-images.githubusercontent.com/30653982/221153489-fb9bd4e3-f724-4daa-91fd-da0848bfba01.jpg)
+![2023-02-24 11_14_22-ReadCalc v 0 0 3](https://user-images.githubusercontent.com/30653982/221153508-7d03f9a0-e956-4504-a789-214716ad3e88.jpg)
